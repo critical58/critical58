@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=critical58&label=Profile%20views&color=0e75b6&style=flat" alt="critical58" /> </p>
 
-- 🔭 I’m currently working on **Circuit Craft**)
+- 🔭 I’m currently working on **Circuit Craft**
 
 - 🌱 I’m currently learning **The GCSE Computer Science syllabus**
 
