@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=critical58&label=Profile%20views&color=0e75b6&style=flat" alt="critical58" /> </p>
 
-- 🔭 I’m currently working on [battleships.py](https://github.com/critical58/battleships.py)
+- 🔭 I’m currently working on **Circuit Craft**)
 
 - 🌱 I’m currently learning **The GCSE Computer Science syllabus**
 
-- 👯 I’m looking to collaborate on **anything 🤷‍♂️**
+- 👯 I’m looking to collaborate on **Project to do with networking.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/critical58](https://github.com/critical58)
 
 - 💬 Ask me about **Python, Java, Node.js or C++**
 
-- 📫 How to reach me **jackvpike@gmail.com**
+- 📫 How to reach me **jackvernonpike@gmail.com**
 
 - ⚡ Fun fact **The average weight of a pringle is 2.2g**
 
