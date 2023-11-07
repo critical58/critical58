@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/critical58](https://github.com/critical58)
 
-- 💬 Ask me about **Python, Java or Node.js**
+- 💬 Ask me about **Python, Java, Node.js or C++**
 
 - 📫 How to reach me **jackvpike@gmail.com**
 
