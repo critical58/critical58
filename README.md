@@ -15,7 +15,7 @@ public:
     std::vector<std::string> devOps           = {"Git", "GitHub Actions"};
     std::vector<std::string> toolchains       = {"npm", "bun"};
     std::vector<std::string> hosting          = {"Oracle Cloud", "Cloudflare", "Digital Ocean"};
-    std::vector<std::string> operatingSystems = {"macOS", "GNU/Linux", "Windows"};
+    std::vector<std::string> operatingSystems = {"GNU/Linux", "Windows"};
     std::vector<std::string> iot              = {"Raspberry Pi", "Amazon Alexa"};
     std::vector<std::string> editors          = {"Visual Studio Code"};
 };
